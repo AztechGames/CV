@@ -1,20 +1,19 @@
-  name: ATAKAN NACI ÇAKIR
+name: ATAKAN NACI ÇAKIR
 support_dark_mode: true
 
 # Sidebar
 contact:
-  email:  atakan_naci@hotmail.com
-  github:  AztechGames
-  linkedin:  atakannaci
-  phone:  +90 (553) 951 01 33
+  email: atakan_naci@hotmail.com
+  github: AztechGames
+  linkedin: atakannaci
+  phone: +90 (553) 951 01 33
 
 languages:
   - idiom: English
   - idiom: Turkish
 
 education:
-  - degree: Aircraft Electric
-     Electronic Engineering
+  - degree: Aircraft Electric Electronic Engineering
     time: 2018-2023
     university: Firat University
 
