@@ -1,108 +1,96 @@
-name: John Doe
+name: Atakan Naci ÇAKIR
 support_dark_mode: true
-fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: atakan_naci@hotmail.com
+  github: AztechGames
+  linkedin: atakan-naci
+  phone: +90-(553)-951-01-33
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Turkish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Aircraft Electric - Electronic Engineering
+    time: 2018-2023
+    university: Firat University
 
 skills:
-  - category: Backend
+  - category: Software
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - C#
+      - Unity
+      - Photoshop
+      - Davinci Resolve
+      - Notion
+      - Git
+      - RekordBox 6
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  I am an experienced full stack game developer with well developed skills and experience in groundwork.
+  I am a good communicator with proven inter personal skills and am used to working in a team while also being capable of using own initiative.
+  I have worked in many different industries such as Aircraft Engineering, DJ'ing, Organization, Product Manager, Developer, Game Manager, Theatre Actor,
+  Glider and Paraglider Pilot, Teacher. The experience I gained from different jobs makes me special.
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: Founder
     time: 2020-Present
-    company: Google
+    company: Aztech Games
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      I work in different positions such as Game Desinger, Product Manager, Mid-Level Game Developer and Teacher. We make hypercasual games. I decide games to make and help teammates to solve problems
+      also i make game temples to make development process fast and easy. We have lessons and workshops in Aztech Games so i give lessons about development and managment.
     technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      Unity, Photoshop, Davinci Resolve, C#, Notion, Git, RekordBox 6
+      
+  - role: Stutent
+    time: 2021-2021
+    company: Patika
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      I took lessons and worked as an volunteer
+    technologies_used: |
+      Unity, C#
+      
+  - role: Developer
+    time: 2019-2020
+    company: HedgeHog Games
+    details: |
+      I made core mechanics of casual game. Especially enemy AI and player combat system and core loops.
+    technologies_used: |
+      Unity, C#, Git, SourceTree    
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - role: JR.Developer
+    time: 2017-2019
+    company: Indie Development
+    details: |
+      I participate a lot of GameJams and make prototype in every genres.
+    technologies_used: |
+      Unity, C#, Admob, Unity Collab, AdSense, Unity ADS
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Aztech Games - Mobile Games 
+    link: #https://apps.apple.com/us/developer/atakan-cakir/id1598734806
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Apple Store
 
-  - title: Cool Project 
-    link: #
+  - title: Aztech Games - Mobile Games
+    link: #https://play.google.com/store/apps/developer?id=Aztech+Games&hl=tr
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Google Game Play
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2022-Present
+    role: Volunteer
+    company: GameFed
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      I take lessons and work as an volunteer about Gamification and Digital Gaming.
+
+  - time: 2021-2021
+    role: Volunteer
+    company: Patika
+    details: |
+      I took lessons and worked as an volunteer.
