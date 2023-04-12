@@ -1,1 +1,1 @@
-![Preview](./Logo.png)
+![Preview](./Logo.jpg)
