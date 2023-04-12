@@ -3,10 +3,10 @@ support_dark_mode: true
 
 # Sidebar
 contact:
-  email:  atakan_naci@hotmail.com
-  github:  AztechGames
-  linkedin:  atakannaci
-  phone:  +90 (553) 951 01 33
+  email: atakan_naci@hotmail.com
+  github: AztechGames
+  linkedin: atakannaci
+  phone: +90 (553) 951 01 33
 
 languages:
   - idiom: English
@@ -14,7 +14,7 @@ languages:
 
 education:
   - degree: Aircraft Electric 
-     Electronic Engineering
+      -Electronic Engineering
     time: 2018-2023
     university: Firat University
 
