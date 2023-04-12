@@ -10,6 +10,7 @@
             font-weight: bold;
         }
         .university {
+            margin-right: 200px;
             @include body-text;
         }
         .time {
