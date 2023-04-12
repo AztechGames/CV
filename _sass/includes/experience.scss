@@ -19,8 +19,8 @@
             @include body-text;
         }
         .technologies {
-            @include body-text;
             color: #00008b;
+            @include body-text;
             .text {
                 @include body-text;
             }
