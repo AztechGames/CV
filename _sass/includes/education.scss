@@ -7,10 +7,10 @@
         margin-bottom: 20px;
         .degree {
             @include body-text;
+            margin-right: 200px;
             font-weight: bold;
         }
         .university {
-            margin-right: 200px;
             @include body-text;
         }
         .time {
