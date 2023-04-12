@@ -1,19 +1,20 @@
-name: Atakan Naci ÇAKIR
+  name: ATAKAN NACI ÇAKIR
 support_dark_mode: true
 
 # Sidebar
 contact:
-  email: atakan_naci@hotmail.com
-  github: AztechGames
-  linkedin: atakan-naci
-  phone: +90-(553)-951-01-33
+  email:  atakan_naci@hotmail.com
+  github:  AztechGames
+  linkedin:  atakannaci
+  phone:  +90 (553) 951 01 33
 
 languages:
   - idiom: English
   - idiom: Turkish
 
 education:
-  - degree: Aircraft Electric - Electronic Engineering
+  - degree: Aircraft Electric
+     Electronic Engineering
     time: 2018-2023
     university: Firat University
 
@@ -71,12 +72,12 @@ experience:
       Unity, C#, Admob, Unity Collab, AdSense, Unity ADS
 
 projects:
-  - title: Aztech Games - Mobile Games 
+  - title: Aztech Games
     link: #https://apps.apple.com/us/developer/atakan-cakir/id1598734806
     details: |
       Apple Store
 
-  - title: Aztech Games - Mobile Games
+  - title: Aztech Games
     link: #https://play.google.com/store/apps/developer?id=Aztech+Games&hl=tr
     details: |
       Google Game Play
