@@ -98,5 +98,3 @@ volunteering:
 # Certificates
 certificates:
   - image: 
-     - _certificates/2.jpg
-     - https://github.com/AztechGames/CV/blob/main/_certificates/2.jpg

@@ -2,11 +2,18 @@
     .title {
         @include header;
     }
-    .image-container {
-        width: 100%; /* Adjust to your desired width */
-        height: 300px; /* Adjust to your desired height */
-        background-size: cover;
-        background-position: center;
+    .certificates-item{
+        .image{
+            width: 100%; /* Adjust to your desired width */
+            height: 300px; /* Adjust to your desired height */
+            background-size: cover;
+            background-position: center;
+        }
+        .image-container {
+            width: 100%; /* Adjust to your desired width */
+            height: 300px; /* Adjust to your desired height */
+            background-size: cover;
+            background-position: center;
+        }
     }
-
 }
