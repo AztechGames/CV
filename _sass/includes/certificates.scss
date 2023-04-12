@@ -1,0 +1,11 @@
+.certificates {
+    .title {
+        @include header;
+    }
+    .certificates-item {
+        margin-bottom: 20px;
+        .image {
+            @include body-text;
+        }
+    }
+}

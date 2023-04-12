@@ -1,0 +1,14 @@
+{% assign certificates = site.data.data.certificates %}
+{% if certificates %}
+<section class="certificates">
+    <h2 class="title">Certificates</h2>
+    {% for cer in certificates %}
+        <div class="certificates-item">
+            <div class="image">
+                {{vol.image}}
+            </div>
+        </div>
+        
+    {% endfor %}
+</section>
+{% endif %}

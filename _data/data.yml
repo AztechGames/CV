@@ -94,3 +94,7 @@ volunteering:
     company: Patika
     details: |
       I took lessons and worked as an volunteer.
+
+# Certificates
+certificates:
+  - image:
